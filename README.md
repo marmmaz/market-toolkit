@@ -121,6 +121,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Finviz Relative Performance by Industry](https://www.finviz.com/groups.ashx?g=industry&v=210&o=name)
 - [Finviz Relative Performance by Sector](https://www.finviz.com/groups.ashx?g=sector&v=210&o=name)
 - [Finviz Recent News](https://www.finviz.com/news.ashx)
+- **[FINLO - Fundamental Analysis and Due Diligence Tools](https://www.finlo.io/)**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
 - **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
@@ -198,6 +199,7 @@ There are two general approaches to investing: active and passive. Active invest
 ###### [TOC](#toc)
 ---
 **<a id="fa-tools"></a>FUNDAMENTAL ANALYSIS (Tools/Resources):**
+- **[FINLO - Fundamental Analysis and Due Diligence Tools](https://www.finlo.io/)**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Finviz - Financial Visualizations](https://www.finviz.com)**
 - **[TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)**
@@ -245,6 +247,7 @@ There are two general approaches to investing: active and passive. Active invest
 	- **[Official SEC Website](https://www.sec.gov)**
 	- [SEC Forms Index (PDF)](https://www.sec.gov/info/edgar/forms/edgform.pdf)
 	- **[SEC Forms List](https://www.sec.gov/forms)**
+	- **[FINLO - Fundamental Analysis and Due Diligence Tools](https://www.finlo.io/)**
 	- **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
 	- **[LazyFA Market Events](https://www.lazyfa.com/events/)**
 	- [Intelligize SEC Forms Quick Reference Guide (PDF)](https://www.intelligize.com/wp-content/uploads/2017/09/intelligize_sec_forms_guide.pdf)
@@ -476,6 +479,8 @@ There are two general approaches to investing: active and passive. Active invest
 - **[Investors Underground Blog](https://www.investorsunderground.com/blog/)**
 - **[Bulls on Wall Street Blog](https://www.bullsonwallstreet.com/blog/)**
 - **[LazyFA Blog](https://www.lazyfa.com/blog/)**
+- **[FINLO Blog](https://www.finlo.io/blog/)**
+- [Reddit /r/FINLO](https://www.reddit.com/r/FINLO)
 - [Reddit /r/StockMarket](https://www.reddit.com/r/stockmarket)
 - [Reddit /r/Stocks](https://www.reddit.com/r/stocks)
 - [Reddit /r/Investing](https://www.reddit.com/r/investing)
